@@ -1,8 +1,8 @@
 title: Rarotonga, Cook Islands
 description: My holiday to the Rarotonga
 
-url: http://stevenocchipinti.github.com/2016-CookIslands-Rarotonga-Blog
-baseurl: ""
+url: http://stevenocchipinti.github.com/
+baseurl: /2016-CookIslands-Rarotonga-Blog
 paginate_path: page/
 permalink: :title/
 
