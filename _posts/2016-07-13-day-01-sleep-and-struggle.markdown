@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Day 1 - Sleep and Struggle"
-date:   2016-07-13
+title: "Day 1 - Sleep and Struggle"
+date: 2016-07-13
 ---
 
 Today I slept in until 3pm! I was exhausted! It's all catching up with me.
 Every time I woke up the soothing sound of the rain outside would put me back to
 sleep. I ended up staying in bed for quite a while and started reading the
 material in the hotel that explained the services available and some facts about
-the area including what to do and where to eat.  
+the area including what to do and where to eat.
 
 There was also wifi available at the hotel, but it cost $9 for 30MB! This didn't
 bother me too much because part of my goal for this trip was to disconnect and
 properly relax, so I wanted to stay off the internet anyway and with prices like
 that, it wasn't hard to avoid!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-01-wifi_j6dyqc.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-01-wifi_j6dyqc.jpg" />
 
 By this time I was starting to get hungry, but because I had basically slept the
 whole day, by the time I left it was already dark and still raining outside.
@@ -31,14 +31,14 @@ a person smoking outside their house and asked them for directions to somewhere
 I could eat. Turns out just to the left of the hotel was a small shop and they
 had a cafe, so I headed back.  
 They had a minimum $20 so I ordered a seafood platter and a coke.
-It was fairly greasy, but I was too hungry to care.  
+It was fairly greasy, but I was too hungry to care.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-01-dinner_z5bvdn.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-01-dinner_z5bvdn.jpg" />
 
 The little hut's roof was leaking from everywhere, but I sat up against the
-counter with the company of a cat and some terrible American reality TV show.  
+counter with the company of a cat and some terrible American reality TV show.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-01-cafe_ad5rf5.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-01-cafe_ad5rf5.jpg" />
 
 I spoke to a local who spent 18 years in Melbourne but is back home with his
 family. He told me how it is possible to survive without jobs here because they

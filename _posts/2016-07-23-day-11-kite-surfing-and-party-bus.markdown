@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 11 - Kite Surfing and Party Bus"
-date:   2016-07-23
+title: "Day 11 - Kite Surfing and Party Bus"
+date: 2016-07-23
 ---
 
 I'm quite positive my kite surfing lesson today was booked for 12 but I received
@@ -22,7 +22,7 @@ of time before my lesson and hadn't had breakfast yet, so I went to LBV (the
 local bakery that was pretty popular). I ordered fruit and muesli with a
 fruit smoothie. The fruit here is so nice and fresh!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-11-breakfast_so82uf.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-11-lunch_wazowq.jpg" />
 
 After breakfast I headed down to the beach to find someone from KiteSUP. After a
 brief introduction, I got changed into a wet suit and put on the harness.
@@ -53,8 +53,7 @@ power, turn, etc. With all this new knowledge I was ready to go out into the
 lagoon to do my assisted launch!
 
 First I helped launch the kite for Malin, then she helped me launch the kite. I
-was shown how to move the kite to the sides of the wind window (down to 10 and
-2) and control it with one hand. Then I started walking through the water with
+was shown how to move the kite to the sides of the wind window (down to 10 and 2) and control it with one hand. Then I started walking through the water with
 the kite in one hard and then body dragging upwind by tacking and finally going
 downwind by doing "violent" figure 8s to get power out of the kite.
 
@@ -70,13 +69,13 @@ After the lesson I was pretty hungry so I went deli-licious, which is next to
 KiteSUP, just opposite LBV and had a salmon bagel, not sure if it was just
 because I was so hungry, but it was really good!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-11-lunch_wazowq.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-11-lunch_wazowq.jpg" />
 
 I also got a chilled nu (coconut) to go with it and when I was done they broke
 it open for me to scoop the meat out. I only ate a little bit of the meat so I
 took the rest home for a snack.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-11-coconut_lffj8k.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-11-coconut_lffj8k.jpg" />
 
 The cafes around here always have interesting tokens for you to hold until your
 food arrives. In Melbourne it's normally just a number, but here I've

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 4 - Cultural Show"
-date:   2016-07-16
+title: "Day 4 - Cultural Show"
+date: 2016-07-16
 ---
 
 Today was exam day! I rode down to the police station to do the motorcycle test.
@@ -35,7 +35,7 @@ beach and the ocean!
 We arrived there a little early so I walked around, took some photos and
 looked through the museum until the other buses arrived.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-04-view_tr2qiu.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-04-view_tr2qiu.jpg" />
 
 The groups started pouring out of the buses and we all went inside and were
 handed a welcome cocktail. There was an introductory speech and then we headed
@@ -59,7 +59,7 @@ navigation before going out to the sea.
 We headed back inside for dinner, a massive feast with big variety of food that
 was cooked in the underground umu's was waiting for us and it smelled amazing!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-04-dinner_nysoas.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-04-dinner_nysoas.jpg" />
 
 I also tried the local beer, Matatu. They have a pale ale (what I had, pretty
 good) and a lager.
@@ -80,4 +80,4 @@ bus, a very funny guy). Also, I could be wrong, but it looked like the two kids
 from the [tourism commercials](https://www.youtube.com/watch?v=eB9ITxKA7r8) were
 also in the band!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-04-performance_kl5gwc.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-04-performance_kl5gwc.jpg" />

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 10 - Buggy Ride, Kayaking and Games"
-date:   2016-07-22
+title: "Day 10 - Buggy Ride, Kayaking and Games"
+date: 2016-07-22
 ---
 
 I was woken up sometime between 1:30am and 2:30am this morning by someone
@@ -58,7 +58,7 @@ Mooring Fish Cafe. We drove our buggies down there and the food was really nice!
 This was another place I had read about during my research. After lunch we
 headed back to the hotel where we started and ended the tour there.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-10-buggy_huqadl.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-10-buggy_huqadl.jpg" />
 
 There were dark clouds lingering over the mountain, so I thought I'd go back to
 the hotel to get that voucher while I still could, even though I was covered in

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 6 - Garden Photography and Night Market"
-date:   2016-07-18
+title: "Day 6 - Garden Photography and Night Market"
+date: 2016-07-18
 ---
 
 This morning I made bacon and eggs again for breakfast and had a fairly quiet,
@@ -33,23 +33,23 @@ telling me how they pride themselves on using only the freshest ingredients from
 around the island. The meal was light and really refreshing, probably my
 favourite meal here so far!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-06-lunch_shs1ki.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-06-lunch_shs1ki.jpg" />
 
 After lunch I walked around the gardens and took a few photos.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-06-garden_komiuj.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-06-garden_komiuj.jpg" />
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-06-garden2_l5qdul.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-06-garden2_l5qdul.jpg" />
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-06-garden3_fyg09j.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-06-garden3_fyg09j.jpg" />
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-06-garden4_zxmhm7.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-06-garden4_zxmhm7.jpg" />
 
 After spending a little time here, I thought I was already half way to Muri so I
 may as well go there for a bit. The weather had cleared up and the sun was
 shining, so I stopped at a fishing pier to put some sunscreen on.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-06-beach_sehihj.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-06-beach_sehihj.jpg" />
 
 I stopped at KiteSUP to enquire about kite surfing lessons, they were a little
 more expensive than I was expecting, but I took a brochure to have a think about

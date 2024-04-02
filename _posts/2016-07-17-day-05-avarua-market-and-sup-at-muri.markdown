@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 5 - Avarua Market and SUP at Muri"
-date:   2016-07-17
+title: "Day 5 - Avarua Market and SUP at Muri"
+date: 2016-07-17
 ---
 
 I woke up early to be at the police station at 8:30am to re-sit my motocycle
@@ -19,14 +19,14 @@ In the end I paid $5x2 for the written test, $5 for the practical test and $20
 for the licence, but I was good to go! From there I went to the avarua market to
 get some food.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-market_axrebg.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-05-market_axrebg.jpg" />
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-market2_w8e3xc.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-05-market2_w8e3xc.jpg" />
 
 For brunch I got a marinated chicken plate that came with potato salad and veges
 with a home made passion fruit, mango, coconut and guava juice.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-lunch_wg90gt.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-05-lunch_wg90gt.jpg" />
 
 While I was eating I got chatting with an Aussie guy who works out in the mines
 and I'm pretty sure I saw the old guy, Brian, from the tourism ad as well!
@@ -44,9 +44,9 @@ stopped at Muri beach to see what the wind conditions were like and it was dead
 flat. Not great for kite surfing, but great for trying out Stand Up
 Paddleboarding!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-beach-dog_iiyrtr.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-05-beach-dog_iiyrtr.jpg" />
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-05-beach-panorama_mcx7u6.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-05-beach-panorama_mcx7u6.jpg" />
 
 With weather this calm, I decided I wanted to try it but I didn't have any beach
 gear, so I continued riding towards the hotel, got changed, grabbed a towel and

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Day 8 - Captain Tama's Lagoon Cruies"
-date:   2016-07-20
+title: "Day 8 - Captain Tama's Lagoon Cruies"
+date: 2016-07-20
 ---
 
 Today I going to join Captain Tama's Lagoon Tour Cruise! As part of the tour, a
@@ -19,24 +19,24 @@ It was a really windy day today, so a few of us didn't jump in the water and
 just looked through the glass floor, even the captain said we're crazy for doing
 this in winter, haha.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-glass-bottom-boat_xnsixs.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-glass-bottom-boat_xnsixs.jpg" />
 
 After spending a bit of time there we started heading towards the small island
 opposite Muri beach where there were some people cooking our lunch using a huge
 hot plate over an open fire.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-cooking_grwopy.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-cooking_grwopy.jpg" />
 
 After about 10 minutes lunch was served. We had a feast of potato salad,
 coleslaw, papaya with coconut, watermelon, star fruit, grilled fish, grilled
 bananas and grilled onions.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-lunch_g0n6dq.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-lunch_g0n6dq.jpg" />
 
 On the boat they explained that there is no septic tank on the island because of
 environmental reasons, so they explained how to use the drop toilets.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-toilet-sign_teymod.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-toilet-sign_teymod.jpg" />
 
 After lunch there were a couple of demonstrations, the first was the coconut
 show. He demonstrated how to climb the coconut tree using a small rope made from
@@ -59,7 +59,7 @@ the creme, which is good for moisturising skin and healing cuts. The left over
 coconut meat is then used in cooking. No part goes to waste, they call it the
 tree of life.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-performance_awthin.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-performance_awthin.jpg" />
 
 After that show, they demonstrated how to tie a sarong a few different ways for
 women and a couple of ways for the warriors (men), including a G-string style
@@ -70,7 +70,7 @@ around listening to the crew play their music. They were quite funny and made up
 songs on the spot about each other. They only had a few drums and ukuleles, but
 it was pretty nice music.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-music_tybqx8.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-music_tybqx8.jpg" />
 
 We headed back to shore and caught a bus back to our hotels. I heated up some
 leftover BBQ from last night and relaxed by the pool for a bit.
@@ -89,12 +89,12 @@ improved, but I was able to sit outside with the beach in the distance, the
 temperature was perfect with barely any wind - it was such a nice night I
 decided to celebrate with a Matutu (the local beer).
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-restaurant_gwgvti.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-restaurant_gwgvti.jpg" />
 
 At the cultural night a while ago, I tried the pale ale from Matutu so this time
 I gave the lager a go. It wasn't too bad, but the I prefer the pale ale.
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-beer_mql5lu.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-beer_mql5lu.jpg" />
 
 I ordered a steak with mushroom sauce and went for a walk down the beach while I
 waited. I got to the shore and realised I was surrounded by lots of small crabs.
@@ -111,7 +111,7 @@ perfect - sounds like an awesome move.
 A waitress then called out to me to let me know me meal was ready and it looked
 delicious!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-dinner_kiinue.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-dinner_kiinue.jpg" />
 
 As I was eating a couple turned up to the table next to me, but they picked the
 table very specifically as they lived next door and their baby sitter was away,
@@ -126,7 +126,7 @@ seemed to know. Couldn't help but think if this was in Australia it would be a
 health and safety risk or something, but for someone who likes dogs and someone
 dining by themselves, it was kind of nice having a canine companion!
 
-<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/c_limit,h_600,w_600/v1/cookislands2016/day-08-dog_pkwg9w.jpg" />
+<img src="https://res.cloudinary.com/stevenocchipinti/image/upload/f_auto,w_1600/2016-cook-islands/day-08-dog_pkwg9w.jpg" />
 
 I got the bill and headed back. This meal was probably too soon, I ate at the
 hotel sometime between 4-5 and started eating here a little after 7 - I was so
